@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "1MkOMmtE1l8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manop\\QrMicroservice\\QrMicroservice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manop\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\manop\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\manop\\.nuget\\packages\\qrcoder\\1.6.0\\qrcoder.1.6.0.nupkg.sha512",
+    "C:\\Users\\manop\\.nuget\\packages\\swashbuckle.aspnetcore\\10.3.1\\swashbuckle.aspnetcore.10.3.1.nupkg.sha512",
+    "C:\\Users\\manop\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.3.1\\swashbuckle.aspnetcore.swagger.10.3.1.nupkg.sha512",
+    "C:\\Users\\manop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.3.1\\swashbuckle.aspnetcore.swaggergen.10.3.1.nupkg.sha512",
+    "C:\\Users\\manop\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.3.1\\swashbuckle.aspnetcore.swaggerui.10.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}

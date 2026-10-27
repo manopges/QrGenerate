@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "QrMicroservice.slnx",
+    "projects": [
+      "QrMicroservice.csproj"
+    ]
+  }
+}
